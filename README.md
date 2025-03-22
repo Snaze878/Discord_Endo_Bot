@@ -91,7 +91,7 @@ GMT Start,Date,Driver,Spotter,Driver Discord,Spotter Discord
 Start the bot using:
 
 ```bash
-python Endo_Ping.py
+python Discord_Endo_Ping.py
 ```
 
 Logs will show which events are scheduled.
