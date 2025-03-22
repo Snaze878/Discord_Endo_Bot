@@ -107,12 +107,4 @@ Logs will show which events are scheduled.
 - Use UTC/GMT for start times — the bot auto-displays local times using Discord’s formatting.
 - Keep the bot running on a machine that stays online to ensure all events are processed.
 
----
-
-## 🛠 To-Do / Enhancements
-
-- Slash command to reload the schedule
-- Option to use a database (e.g. MySQL) instead of CSV
-- Web dashboard for editing and uploading schedules
-
 
