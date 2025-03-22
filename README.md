@@ -27,11 +27,8 @@ A simple Discord bot that reads a schedule CSV file, calculates event start time
 ### 1. Clone the Bot Repository
 
 ```bash
-git clone https://github.com/yourusername/endo-ping-bot.git
-cd endo-ping-bot
-```
-
-> Replace `yourusername` with your actual GitHub username if applicable.
+git clone https://github.com/Snaze878/Discord_Endo_Bot
+cd Discord_Endo_Bot
 
 ---
 
